@@ -1,0 +1,52 @@
+.converter {
+    padding: 2rem;
+
+    p {
+        color: #212121;
+    }
+
+    h6 {
+        color: #212121;
+        margin-bottom: 1rem;
+    }
+
+    .iconBtn {
+        margin: 0 2rem 0;
+        background-color: #fff3e0;
+    }
+
+    .iconBtn:hover {
+        background-color: #b71c1cc9;
+        color: #fff3e0;
+    }
+
+    .btn:hover {
+        background-color: #b71c1cc9;
+        color: #fff3e0;
+    }
+
+    .title {
+        font-weight: bold;
+        font-size: x-large;
+        color: #fff3e0;
+        text-shadow: 1px 1px 2px #212121;
+    }
+
+    .results {
+        font-weight: bold;
+        font-size:large;
+        color: #8b1919;
+    }
+
+    .github {
+        width: 100%;
+        height: auto;
+        border-radius: 100%;
+        box-shadow: 1px 1px 3px #212121;
+    }
+
+    .github:hover {
+        cursor: pointer;
+        opacity: 0.7;
+    }
+}
