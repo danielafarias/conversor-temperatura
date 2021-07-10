@@ -187,7 +187,7 @@ export default function Converter() {
                     </Grid>
 
                     <Grid item xs={12} sm={6} alignItems='center'>
-                        <a href="https://github.com/danielafarias" target="_blank">
+                        <a href="https://github.com/danielafarias" target="_blank" rel="noreferrer">
                             <img src="/images/github.png" alt='Logo do Github' className={styles.github}/>
                         </a>
                     </Grid>
